@@ -7,7 +7,7 @@ I'm an automation and control engineer from [Politecnico di Milano](https://www.
 
 I work as ML / Software Engineer at [Tenova](https://tenova.com/).
 
-I'm passionate about robotics and AI <img src="media\r2d2.gif" width=7%/>
+I'm passionate about robotics and AI <img src="media\r2d2.gif" width=7% />
 
 ## Personal Projects
 - Master thesis on "collaborative" robotics (at least my robot didn't killed me :relieved:) carried out at [MeRLIN Lab](http://merlin.deib.polimi.it/)
