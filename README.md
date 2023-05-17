@@ -5,7 +5,9 @@
 
 I'm an automation and control engineer from [Politecnico di Milano](https://www.polimi.it/).
 
-I work as ML / Software Engineer at [Tenova](https://tenova.com/).
+Currently I am a Senior Technician at Artificial and Mechanical Intelligence ([AMI](https://ami.iit.it/)) lab at Istituto Italiano di Tecnologia ([IIT](https://www.iit.it/))
+
+From 2020 to 2023 I worked as ML / Software Engineer at [Tenova](https://tenova.com/).
 
 I'm passionate about robotics and AI <img src="media\r2d2.gif" width=7% />
 
