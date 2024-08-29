@@ -1,0 +1,62 @@
+baseURL = 'https://xela-95.github.io'
+languageCode = 'en-us'
+title = 'Alessandro Croci personal site'
+theme = "hugo-coder"
+languagecode = "en"
+defaultcontentlanguage = "en"
+
+paginate = 20
+disableComments = true
+
+[services]
+
+[markup.highlight]
+style = "github-dark"
+
+[params]
+  author = "Alessandro Croci"
+  info = "Robotics Software Engineer"
+  description = "Alessandro Croci personal site"
+  keywords = "blog,developer,personal"
+  avatarurl = "https://github.com/xela-95.png"
+  #gravatar = "john.doe@example.com"
+
+  faviconSVG = "favicon.svg"
+  favicon_32 = "favicon-32x32.png"
+  favicon_16 = "favicon-16x16.png"
+
+  since = 2024
+
+  enableTwemoji = true
+
+  colorScheme = "auto"
+  hidecolorschemetoggle = false
+
+  # customCSS = ["css/custom.css"]
+  # customSCSS = ["scss/custom.scss"]
+  # customJS = ["js/custom.js"]
+
+[taxonomies]
+  category = "categories"
+  series = "series"
+  tag = "tags"
+  author = "authors"
+
+# Social links
+[[params.social]]
+  name = "LinkedIn"
+  icon = "fa-brands fa-linkedin fa-2x"
+  weight = 1
+  url = "https://www.linkedin.com/in/alessandro-croci/"
+
+[[params.social]]
+  name = "Github"
+  icon = "fa-brands fa-github fa-2x"
+  weight = 1
+  url = "https://github.com/xela-95/"
+
+# Menu links
+[[menu.main]]
+  name = "About"
+  weight = 2
+  url = "about/"
