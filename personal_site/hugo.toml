@@ -18,12 +18,12 @@ style = "github-dark"
   info = "Robotics Software Engineer"
   description = "Alessandro Croci personal site"
   keywords = "blog,developer,personal"
-  avatarurl = "images/avatar.jpg"
+  avatarurl = "https://github.com/xela-95.png"
   #gravatar = "john.doe@example.com"
 
-  faviconSVG = "/img/favicon.svg"
-  favicon_32 = "/img/favicon-32x32.png"
-  favicon_16 = "/img/favicon-16x16.png"
+  faviconSVG = "favicon.svg"
+  favicon_32 = "favicon-32x32.png"
+  favicon_16 = "favicon-16x16.png"
 
   since = 2024
 
@@ -47,7 +47,7 @@ style = "github-dark"
   name = "Github"
   icon = "fa-brands fa-github fa-2x"
   weight = 1
-  url = "https://github.com/johndoe/"
+  url = "https://github.com/xela-95/"
 
 # Menu links
 [[menu.main]]
