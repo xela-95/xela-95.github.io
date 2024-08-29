@@ -44,16 +44,18 @@ style = "github-dark"
 
 # Social links
 [[params.social]]
+  name = "LinkedIn"
+  icon = "fa-brands fa-linkedin fa-2x"
+  weight = 1
+  url = "https://www.linkedin.com/in/alessandro-croci/"
+
+[[params.social]]
   name = "Github"
   icon = "fa-brands fa-github fa-2x"
   weight = 1
   url = "https://github.com/xela-95/"
 
 # Menu links
-[[menu.main]]
-  name = "Blog"
-  weight = 1
-  url  = "posts/"
 [[menu.main]]
   name = "About"
   weight = 2
