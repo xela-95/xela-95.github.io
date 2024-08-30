@@ -5,6 +5,7 @@ theme = "hugo-coder"
 languagecode = "en"
 defaultcontentlanguage = "en"
 publishDir = "docs"
+themesDir = "themes"
 
 paginate = 20
 disableComments = true
