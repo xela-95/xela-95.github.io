@@ -22,9 +22,9 @@ style = "github-dark"
   keywords = "blog,developer,personal"
   avatarurl = "https://github.com/xela-95.png"
 
-  faviconSVG = "/favicon.svg"
-  favicon_32 = "/favicon-32x32.png"
-  favicon_16 = "/favicon-16x16.png"
+  faviconSVG = "images/favicon.svg"
+  favicon_32 = "images/favicon-32x32.png"
+  favicon_16 = "images/favicon-16x16.png"
 
   since = 2024
 
