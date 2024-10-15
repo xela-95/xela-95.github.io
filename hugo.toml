@@ -61,3 +61,9 @@ style = "github-dark"
   name = "About"
   weight = 1
   url = "about/"
+
+[[menu.main]]
+  name = "Resume"
+  weight = 2
+  url = "files/Croci_Alessandro_CV.pdf"
+  identifier = "cv"
