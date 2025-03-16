@@ -7,8 +7,10 @@ defaultcontentlanguage = "en"
 publishDir = "docs"
 themesDir = "themes"
 
-paginate = 20
 disableComments = true
+
+[pagination]
+pagerSize = 20
 
 [services]
 
